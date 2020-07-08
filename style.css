@@ -1,0 +1,193 @@
+header{
+    background: #F0FFF0;
+}
+.container{
+    padding-bottom: 25px;
+}
+.logo{
+    width: 198.07px;
+    height: 59px;
+}
+/* .nav-a used for navbar anchor  */
+.nav-a{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    margin: 10px 0px;
+}
+/* Extra margin to align sign in button perfectly */
+.extra-margin{
+    margin-right: 30px;
+}
+.button-green{
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    border: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
+.button-sign-in{
+    padding: 12px 36px;
+    margin-top: 8px;
+    margin-left: -30px;
+}
+/* style for get started section */
+.get-started{
+    padding-bottom: 20px;
+}
+.get-started h1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+.green-text{
+    color: #21B573;
+}
+.get-started h5{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+.get-started p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+.button-get-started{
+    padding: 12px 36px;
+}
+
+.section-bg{                /* section background */
+    background: white;
+    padding: 20px 0;
+}
+/* style for categories section  */
+.card-icon{ 
+    width: 66px;
+    height: 85px;
+    padding: 10px;
+}
+.topic-card{
+    padding: 30px 0;
+    background: #F8FFFB;
+    border-radius: 10px;    
+}
+.topic-card:hover{
+    background-color: white;
+    box-shadow: 2px 5px 20px 5px lightgray;
+}
+.card-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+.card-text{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+h2{
+    margin-bottom: 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+    }
+/* style for Online course section */
+.course-card{
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+}
+.card-img-top{
+    margin-bottom: 10px;
+}
+.card-footer{
+    background-color: rgba(0, 0, 0, 0);
+    border-top: none;
+}
+.card-footer img{
+    height: 24px;
+    width: 24px;
+    margin-right: 5px;
+}
+.card-footer p{
+    font-weight: 500;
+}
+.button-buy-now{
+    padding: 8px 28px;
+}
+/* Style for testimonial section */
+.testimonial-img{
+    height: 120px;
+    width: 120px;
+}
+/* testimonial paragraph */
+.testimonial-p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    width: 583px;
+    padding-left: 30px;
+    color: #000000;
+}
+/* Style for footer */
+footer{
+    background: #282531;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    
+}
+.footer-info{
+    padding: 30px;
+}
+.footer-info p{
+    color: white;
+    text-align: start;
+}
+.footer-info li{
+    list-style: none;
+    color: #FFFFFF;
+}
+.footer-info li:first-child{
+    font-weight: bold;
+}
+.footer-info a{
+    text-decoration: none;
+    color: #FFFFFF;
+
+}
+.footer-info a:hover{
+    text-decoration: underline;
+}
+footer p{
+    text-align: center;
+    color:  #CDCDCD;
+}
